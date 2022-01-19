@@ -1,3 +1,11 @@
-theme: minimal-mistakes-jekyll
-title: Nerds for Nerds
-description: Deepanshu Kalra's  personal webiste
+title: Nerds for Nerds # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > 
+ Data Engineer
+  <br><br>
+  <a href="mailto:nerdsfornerds@outlook.com">Email Nerds</a>
+  <br>
+  <a href="https://www.linkedin.com/in/deepanshuk/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.youtube.com/channel/UCfe5OD9yCzsqofhFMyh8D8A">Youtube</a> 
+theme: jekyll-theme-minimal

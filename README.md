@@ -6,7 +6,7 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Skills
 
-###SQL, Python, Big Data, Distributed Systems
+### SQL, Python, Big Data, Distributed Systems
 ---
 
 ## Experience

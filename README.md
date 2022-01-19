@@ -1,3 +1,1 @@
-# deepanshu-kalra.github.io
-none
-hi
+# Nerds for Nerds

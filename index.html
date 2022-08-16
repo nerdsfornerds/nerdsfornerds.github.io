@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+   <script>
+      $('.btn').popover();
+      $('#popoverOption').popover({ trigger: "hover" });
+   </script>
    <head>
       <!--
          - Nerds for Nerds
@@ -185,7 +189,7 @@
                            </div>
                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
                               <a href="https://topmate.click/AMA" target="_blank">
-                                 <div class="my-4">
+                                 <div class="my-4 btn" data-content="Popover with data-trigger" rel="popover" data-placement="bottom" data-original-title="Title" data-trigger="hover">
                                     <i class="lnr lnr-hand fs-40"></i>
                                  </div>
                               </a>
